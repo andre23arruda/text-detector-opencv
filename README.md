@@ -2,11 +2,10 @@
 
 ## Encontra coordenadas da caixa com texto e aplica filtro para borrar o texto
 
-Ter opencv e imutils instalados:
+Ter opencv instalados:
 ```
 pip install opencv-python
 
-pip install --upgrade imutils
 ```
 
 Executar teste:
